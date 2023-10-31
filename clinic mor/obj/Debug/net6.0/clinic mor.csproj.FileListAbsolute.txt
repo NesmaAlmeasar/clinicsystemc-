@@ -1,0 +1,15 @@
+D:\oop\clinic mor\bin\Debug\net6.0\clinic mor.exe
+D:\oop\clinic mor\bin\Debug\net6.0\clinic mor.deps.json
+D:\oop\clinic mor\bin\Debug\net6.0\clinic mor.runtimeconfig.json
+D:\oop\clinic mor\bin\Debug\net6.0\clinic mor.dll
+D:\oop\clinic mor\bin\Debug\net6.0\ref\clinic mor.dll
+D:\oop\clinic mor\bin\Debug\net6.0\clinic mor.pdb
+D:\oop\clinic mor\obj\Debug\net6.0\clinic mor.csproj.AssemblyReference.cache
+D:\oop\clinic mor\obj\Debug\net6.0\clinic mor.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop\clinic mor\obj\Debug\net6.0\clinic mor.AssemblyInfoInputs.cache
+D:\oop\clinic mor\obj\Debug\net6.0\clinic mor.AssemblyInfo.cs
+D:\oop\clinic mor\obj\Debug\net6.0\clinic mor.csproj.CoreCompileInputs.cache
+D:\oop\clinic mor\obj\Debug\net6.0\clinic mor.dll
+D:\oop\clinic mor\obj\Debug\net6.0\ref\clinic mor.dll
+D:\oop\clinic mor\obj\Debug\net6.0\clinic mor.pdb
+D:\oop\clinic mor\obj\Debug\net6.0\clinic mor.genruntimeconfig.cache
